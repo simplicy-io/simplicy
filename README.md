@@ -11,8 +11,9 @@ Build to simplify crypto-currency payments.
 
 **Values:**
 
-- User intention: Ensure our products behave as the user expects 
-- Simple to use: Ensure our products will be easy to use and understandable to users 
+- Simplify: Simplify Blockchain technology to average users (ensure our products will be easy to use and understandable to users)
+- User intention: Ensure our products behave as the user expects
+- Trust: Build a stable platform and technology that users can trust
 - Security: Build the most secure software, and minimize risk for people 
 - Privacy: 
 - Transparency: 
