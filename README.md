@@ -2,7 +2,7 @@
 
 **Vision:**
 
-Transform the way peoples trades through Blockchain technology based on open ledger, people privacy, high security and easy to use applications.
+Transform the way peoples trades through Blockchain technology based on open ledger, people privacy, high security and easy to use applications for average users.
 
 **Mission:**
 
