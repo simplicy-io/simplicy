@@ -18,5 +18,4 @@ Build to simplify crypto-currency payments.
 - Transparency: We allows any participant to view every transactions, because every single trades is visible to the consumer. 
 - Inclusion: Build software for people across boundaries like background, ability, language, location, wealth, or computer literacy.
 - Privacy: We operate according to the General Data Protection Regulation (GDPR). We'll never send the real user data to the Blockchain.
-For instance, We could validate that a new client lives in a country that belongs to the European Union, without revealing the country. Simply put, ZKSM technology allows information to be shared without revealing contextual details.  
-- Borderless: Bringing cost and efficiency benefits of Blochchain in cross border remittances, as removing multiple intermediary involved in traditional process.
+- Borderless: Bringing cost and efficiency benefits of Blockchain in cross border remittances, as removing multiple intermediary involved in traditional process.
