@@ -17,5 +17,5 @@ Build to simplify crypto-currency payments.
 - Security: Build the most secure software, and minimize risk for people 
 - Privacy: 
 - Transparency: 
-- Inclusion: build software for people across boundaries like background, ability, language, location, wealth, or computer literacy.
-- Borderless: 
+- Inclusion: Build software for people across boundaries like background, ability, language, location, wealth, or computer literacy.
+- Borderless: Bringing cost and efficiency benefits of Blochchain in cross border remittances, as removing multiple intermediary involved in traditional process.
