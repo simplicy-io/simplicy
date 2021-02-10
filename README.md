@@ -19,3 +19,6 @@ Build to simplify crypto-currency payments.
 - Inclusion: Build software for people across boundaries like background, ability, language, location, wealth, or computer literacy.
 - Privacy: We operate according to the General Data Protection Regulation (GDPR). We'll never send the real user data to the Blockchain.
 - Borderless: Bringing cost and efficiency benefits of Blockchain in cross border remittances, as removing multiple intermediary involved in traditional process.
+
+### SIMPLICY Business Concept Diagram
+<img src="https://github.com/simplicy-io/simplicy-vision/raw/main/SIMPLICY%20-%20Business%20Concept%20Diagram.png" alt="SIMPLICY - Business Concept Diagram.png">
