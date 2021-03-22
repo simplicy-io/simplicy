@@ -2,11 +2,11 @@
 
 **Vision:**
 
-Transform the way peoples trades through Blockchain technology based on open ledger, people privacy, high security and easy to use applications for average users.
+Transform the way peoples trades through Decentralize Smart Contract  technology based on open ledger, people privacy, high security and easy to use applications for average users.
 
 **Mission:**
 
-Build to simplify crypto-currency payments.
+Build to simplify Decentralize Smart Contract Payments.
 
 
 **Values:**
