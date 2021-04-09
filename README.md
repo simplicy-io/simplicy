@@ -6,7 +6,7 @@ Transform the way peoples trades through Decentralize Smart Contract  technology
 
 **Mission:**
 
-Build to Simplify Decentralize Smart Contract Payments.
+Build to Simplify Substrate Cross-chain Payments.
 
 
 **Values:**
