@@ -20,7 +20,7 @@ Transform the way peoples trades through Decentralize Smart Contract and Zero-Kn
 
 
 # Products and services
-- [Simplicy - zkWallet](https://github.com/zkWallet/zkWallet-docs/blob/main/README.md)
+- [Simplicy - zkWallet](zkWallet.md)
 - [Simplicy - zk-ReputationService](zk-ReputationService.MD)
 - [Simplicy - zk-KYC-Service](zk-KYC-Service.MD)
 
